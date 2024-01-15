@@ -1,0 +1,13 @@
+/* small device responsive */
+@media screen and (max-width: 576px) {
+    .container{
+        width: 95%;
+    }
+    section{
+        margin: 2rem 0;
+    }
+    /* header */
+    
+
+
+}
